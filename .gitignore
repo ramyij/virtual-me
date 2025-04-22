@@ -1,0 +1,17 @@
+# Ignore environment variables
+.env
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+virtualenv/
+.env.*
+
+# macOS stuff
+.DS_Store
+
+# VSCode
+.vscode/
